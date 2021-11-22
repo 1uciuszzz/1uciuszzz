@@ -1,16 +1,33 @@
 ### Hi there 👋
 
-<!--
-**n1ckzhao/n1ckzhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a student 🚀 from The College of Post and Telecommunication of WIT.
+- I'm currently 🤪 learning React...
+- Ask me about everthing at ✨ [here](https://github.com/n1ckzhao/n1ckzhao/issues/new)
 
-Here are some ideas to get you started:
+### Reach me 😁
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📧[Email me](mailto://leenickzh@gmail.com)
+
+### My Skills 📃
+
+- Javascript
+- React
+- Bootstrap
+- Python
+
+### I had used 🤣
+
+- Cloud Platform
+- Linux
+- C/C++/C#/Java 🥶 (But i'm not good at them😂)
+- Git
+- Hexo/WordPress 💖
+- MySQL
+
+### Expertise 🧐
+
+- Data Structure
+- Data Base
+- A little Algorithm 😥
+
+> Maybe i am not good, but i am still becoming better hard💪
