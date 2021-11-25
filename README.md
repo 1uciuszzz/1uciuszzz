@@ -27,7 +27,7 @@
 ### Expertise 🧐
 
 - Data Structure
-- Data Base
+- Database
 - A little Algorithm 😥
 
 > Maybe i am not good, but i am still becoming better hard💪
