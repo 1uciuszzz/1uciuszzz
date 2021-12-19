@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I'm a student 🚀 from The College of Post and Telecommunication of WIT.
-- I'm currently 🤪 learning React...
+- I'm currently 🤪 learning Algorithm...
 - Ask me about everything at ✨ [here](https://github.com/n1ckzhao/n1ckzhao/issues/new)
 
 ### Reach me 😁
