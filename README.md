@@ -2,24 +2,32 @@
 
 - I'm a student 🚀 come from The College of Post and Telecommunication of WIT.
 - I'm currently 🤪 learning Algorithm...
-- Ask me about everything at ✨ [here](https://github.com/n1ckzhao/n1ckzhao/issues/new)
+- Ask me about everything at ✨ [here](https://github.com/1uciuszzz/1uciuszzz/issues/new)
 
 ### Reach me 😁
 
-- 📧[Email me](mailto://leenickzh@gmail.com)
+- 📧[Email me](mailto://nick_zzhao@outlook.com)
 
 ### My Skills 📃
 
 - Javascript
+- Node
+- Express
+- MongoDB
+- Mongoose
 - React
-- Bootstrap
+- Vue
+- TailwindCSS
+- Fast API
 - Python
+- Linux
+- PostgreSQL
+- SQLAlchemy
 
 ### I had used 🤣
 
 - Cloud Platform
-- Linux
-- C/C++/C#/Java 🥶 (But i'm not good at them😂)
+- C/C++/C#/Java 🥶
 - Git
 - Hexo/WordPress 💖
 - MySQL
